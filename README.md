@@ -6,7 +6,7 @@ The format of the full list is like following:
 ```
 [
 	{
-		"code2": "AT",
+	    "code2": "AT",
 	    "code3": "AUT",
 	    "name": "Austria",
 	    "capital": "Vienna",
